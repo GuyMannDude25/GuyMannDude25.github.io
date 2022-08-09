@@ -11364,7 +11364,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border: 0.5rem solid rgba(255, 255, 255, .1);
   }
   #sideNav .navbar-collapse {
     display: flex;
@@ -11453,7 +11453,7 @@ section.portfolio-section .portfolio-section-content {
   }
 }
 @media (min-width: 992px) {
-  section.resume-section {
+  section.portfolio-section {
     padding-left: 3rem;
     padding-right: 3rem;
     padding-top: 5rem;
